@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CmdaPanda
-- Currently working on finding new and interesting ways to automate in Azure that isn't a pain
-- Relatively new to developing and scripting in a sense
+- Building ways to automate all the things
+- Still learning many languages and doing a whole bunch of projects
 - Learning more on Azure every day, and in my day to day I work for a security company
